@@ -1,3 +1,4 @@
+/*Main config- came with rofi i think.*/
 configuration {
 /*	modes: "window,drun,run,ssh";*/
 /*	font: "mono 12";*/

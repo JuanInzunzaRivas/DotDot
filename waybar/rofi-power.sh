@@ -1,3 +1,4 @@
+#For rofi, opens a "power menu" on click.
 #!/usr/bin/env bash
 
 all=([SHUTDOWN] [REBOOT] [LOGOUT] [LOCK])

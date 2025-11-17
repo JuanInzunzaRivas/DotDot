@@ -1,3 +1,5 @@
+/*Main theme for rofi*/
+
 * {
     font:   "Courier New 16";
     background-color:   transparent;

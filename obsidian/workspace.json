@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "58c8455b6591d549",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df513def913e8a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d8ddda3c40f354d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiseñoBD/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "2faa2ab5a0a43e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiseñoBD/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "d4c3c1eb1a727bea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-30 17.58.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-30 17.58.16.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3613934b51aad64",
+    "type": "split",
+    "children": [
+      {
+        "id": "73737fc061bc857e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "977c00b86a569fa9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4f10bb126f7fb65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f181732e91cfea3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a5d577f1c3caafd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a513bf8f7879bd1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a9ca61ca63ed272",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4395855621bb7baf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled/Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes"
+            }
+          },
+          {
+            "id": "738dbe138511460e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a31b8429aaade26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled/Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4c3c1eb1a727bea",
+  "lastOpenFiles": [
+    "DiseñoBD/Untitled 1.md",
+    "Excalidraw/Drawing 2025-08-30 17.58.16.excalidraw.md",
+    "DiseñoBD/Untitled 2.md",
+    "DiseñoBD/Untitled.md",
+    "POO/Herencia.md",
+    "POO/Interfaces.md",
+    "POO/UML/Diagramas de clases/Cardinalidades.md",
+    "POO/UML/Diagramas de clases/Relaciones/Herencia - Generalización.md",
+    "POO/UML/Diagramas de clases/Relaciones/Dependencia/Realización - Implementación.md",
+    "POO/UML/Diagramas de clases/Relaciones/Asociación/Agregación.md",
+    "POO/UML/Diagramas de clases/Relaciones/Asociación/Composición.md",
+    "POO/UML/Diagramas de clases/Diagramas de clases.md",
+    "POO/UML/UML.md",
+    "Matemáticas/Drawing 2025-05-14 18.51.47.excalidraw.md",
+    "Matemáticas/Matemáticas.md",
+    "POO/Notes.md",
+    "POO/TODO ProyectoPoo.md",
+    "DiseñoBD",
+    "POO/UML/Diagramas de clases/Relaciones/Relaciones.md",
+    "POO/UML/Diagramas de clases/Relaciones/Dependencia/Dependencia.md",
+    "POO/UML/Diagramas de clases/Relaciones/Asociación/Asociación.md",
+    "Excalidraw/Scripts/Downloaded/Custom Zoom.svg",
+    "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Custom Zoom.md",
+    "Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.svg",
+    "Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Matemáticas/Untitled.md",
+    "Matemáticas",
+    "Ink/Writing/2025.5.13 - 18.42pm.writing",
+    "Ink/Writing/2025.5.13 - 18.41pm.writing",
+    "Ink/Writing/2025.5.13 - 17.55pm.writing",
+    "POO/POO.md",
+    "Ink/Writing/2025.5.12 - 23.38pm.writing",
+    "Ink/Writing/2025.5.12 - 23.27pm.writing"
+  ]
+}

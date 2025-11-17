@@ -1,3 +1,5 @@
+/*Theme for the power menu for waybar*/
+
 * {
     font:   "Courier New 16";
     background-color:   transparent;

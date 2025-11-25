@@ -130,8 +130,7 @@
         "format-alt-click": "click-right",
         "return-type": "json",
         "interval": 60,
-        "exec": "~/.config/waybar/modules/storage.sh",
-        "on-click": "filelight"
+        "exec": "~/.config/waybar/modules/storage.sh"
     },
 
     "backlight": {
